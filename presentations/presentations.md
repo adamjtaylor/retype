@@ -7,7 +7,8 @@
     “Collaborative tools and approaches for FAIR data sharing and team science”. [Watch] HMS From Data To Discovery Seminar.  
     Harvard Medical School, Boston, USA. 9 June 2023.
 
-    [!embed](https://player.vimeo.com/video/848728301?h=64047fc162)
+    [!embed](https://player.vimeo.com/video/848728301?h=64047fc162)  
+    2:30 Main presentation | 37:45 Q&A with audience
 
 2022
 :   “Curating cartography: Enabling the harmonization, visualization, and reuse of diverse multiplexed imaging data through the Human Tumor Atlas Network Data Coordinating Center”.  
