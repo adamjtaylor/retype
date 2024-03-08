@@ -20,7 +20,7 @@
 2019
 :    “Multi-Modal Mass Spectrometry Imaging of Tumors”  
      ASMS Asilomar Conference. Pacific Grove, CA, USA. 11-15 October 2019
-     
+
 2018
 :    “Chemical analysis of medicinal products, medical devices and API distribution in ex-vivo models by mass spectrometry imaging.”  
      Making Pharmaceuticals. Coventry, UK. 25-26 April 2018
