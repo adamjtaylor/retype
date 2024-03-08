@@ -25,11 +25,11 @@
 :    “Chemical analysis of medicinal products, medical devices and API distribution in ex-vivo models by mass spectrometry imaging.”  
      Making Pharmaceuticals. Coventry, UK. 25-26 April 2018
 
-    “Multimodal mass spectrometry imaging for cancer at NPL and in the CRUK Grand Challenge Rosetta Team.”  
-    Joint NKI & CRUK Beatson Institute Meeting, Amsterdam, Netherlands. 6 April 2018
-    
+     “Multimodal mass spectrometry imaging for cancer at NPL and in the CRUK Grand Challenge Rosetta Team.”  
+     Joint NKI & CRUK Beatson Institute Meeting, Amsterdam, Netherlands. 6 April 2018
+
 2017
-:    “Reviewing strategies for quantitative ambient mass spectrometry imaging.”  
+:    “Reviewing strategies for quantitative ambient mass spectrometry imaging.”   
      BMSS Ambient Ionisation Special Interest Group. Keele, UK. 18 January 2017
 
 2016
@@ -40,8 +40,8 @@
 :    “Molecular-level surface analysis demonstrates the impact of detergent selection on decellularized tissues.”  
      AVS 62nd International Symposium. San Jose, CA. 18–23 October 2015
 
-    “ToF-SIMS analysis reveals the impact of detergent selection on decellularized tissues.”  
-    SIMS XX. Seattle, WA. 13-18 September 2015
+     “ToF-SIMS analysis reveals the impact of detergent selection on decellularized tissues.”  
+     SIMS XX. Seattle, WA. 13-18 September 2015
 
 2014
 :    “Reconstructing accurate ToF-SIMS depth profiles for biological and organic materials.”  
