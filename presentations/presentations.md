@@ -7,6 +7,8 @@
     “Collaborative tools and approaches for FAIR data sharing and team science”. [Watch] HMS From Data To Discovery Seminar.  
     Harvard Medical School, Boston, USA. 9 June 2023.
 
+    [!embed]([link](https://vimeo.com/848728301))
+
 2022
 :   “Curating cartography: Enabling the harmonization, visualization, and reuse of diverse multiplexed imaging data through the Human Tumor Atlas Network Data Coordinating Center”.  
     AACR. New Orleans, USA. 8-12 April 2022
@@ -18,6 +20,7 @@
 2019
 :    “Multi-Modal Mass Spectrometry Imaging of Tumors”  
      ASMS Asilomar Conference. Pacific Grove, CA, USA. 11-15 October 2019
+     
 2018
 :    “Chemical analysis of medicinal products, medical devices and API distribution in ex-vivo models by mass spectrometry imaging.”  
      Making Pharmaceuticals. Coventry, UK. 25-26 April 2018
