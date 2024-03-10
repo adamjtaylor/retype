@@ -25,10 +25,13 @@ Jan 2014 - Oct 2015
 # Education
 
 Phd (2014) 
-:    University of Nottingham, School of Pharmacy
-     Thesis: Analytical and cellular investigations of cell-secreted matrices from cytokine-challenged environments [PDF].   
-     Supervisors: Prof. Morgan Alexander & Dr. Lee Buttery. Funding: EPSRC.
+:    University of Nottingham, School of Pharmacy  
+     Thesis: Analytical and cellular investigations of cell-secreted matrices from cytokine-challenged environments [PDF].  
+     Supervisors: Prof. Morgan Alexander & Dr. Lee Buttery.  
+     Funding: EPSRC Doctoral Training Center in Regenerative Medicine
 
 MEng Biochemical Engineering (2009)
-:    University of Bath, Department of Chemical Engineering Upper Second Class Honors.  
-     Carol Lawrenson Award for Undergraduate Research Industrial placement year: Formulation development, MSD UK Ltd
+:    University of Bath, Department of Chemical Engineering  
+     Upper Second Class Honors  
+     Carol Lawrenson Award for Undergraduate Research  
+     Industrial placement year: Formulation development, MSD UK Ltd
