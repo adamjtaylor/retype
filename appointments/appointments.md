@@ -1,22 +1,26 @@
 # Appointments
 
-March 2024 - present
+August 2024 - present
+:    Director of Cancer Biology  
+     Sage Bionetworks, Seattle, USA (Remote from the UK)  
+
+March 2024 - August 2024
 :    Principal Scientist  
      Sage Bionetworks, Seattle, USA (Remote from the UK)  
 
-June 2021 - Feb 2024
+June 2021 - February 2024
 :    Senior Research Scientist  
      Sage Bionetworks, Seattle, USA (Remote from the UK)  
 
-Aug 2020 - May 2021
+August 2020 - May 2021
 :    Senior Research Scientist  
      National Physical Laboratory, Teddington, UK
 
-Nov 2015 - July 2020 
+November 2015 - July 2020 
 :    Higher Research Scientist  
      National Physical Laboratory, Teddington, UK
 
-Jan 2014 - Oct 2015
+January 2014 - October 2015
 :    Research Associate  
      NESAC/BIO, University of Washington, Seattle, WA, USA
 
@@ -24,9 +28,9 @@ Jan 2014 - Oct 2015
 
 # Education
 
-Phd (2014) 
+PhD (2014) 
 :    University of Nottingham, School of Pharmacy  
-     Thesis: Analytical and cellular investigations of cell-secreted matrices from cytokine-challenged environments [PDF].  
+     Thesis: Analytical and cellular investigations of cell-secreted matrices from cytokine-challenged environments.  
      Supervisors: Prof. Morgan Alexander & Dr. Lee Buttery.  
      Funding: EPSRC Doctoral Training Center in Regenerative Medicine
 
