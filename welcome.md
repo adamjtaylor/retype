@@ -1,5 +1,5 @@
 ---
-icon: ":icon-home:"
+icon: home
 ---
 
 # Hello! 👋
