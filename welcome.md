@@ -1,3 +1,7 @@
+---
+icon: ":icon-home:"
+---
+
 # Hello! 👋
 
 --![](/images/adamjtaylor_headshot.png)
