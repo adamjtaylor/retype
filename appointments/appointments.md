@@ -9,11 +9,11 @@ August 2024 - present
 
 March 2024 - August 2024
 :    Principal Scientist  
-     [Sage Bionetworks](https://sagebionetworks.org, Seattle, USA (Remote from the UK)  
+     [Sage Bionetworks](https://sagebionetworks.org), Seattle, USA (Remote from the UK)  
 
 June 2021 - February 2024
 :    Senior Research Scientist  
-     [Sage Bionetworks](https://sagebionetworks.org, Seattle, USA (Remote from the UK)  
+     [Sage Bionetworks](https://sagebionetworks.org), Seattle, USA (Remote from the UK)  
 
 August 2020 - May 2021
 :    Senior Research Scientist  
